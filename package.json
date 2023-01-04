@@ -1,0 +1,19 @@
+{
+  "name": "gadgethub",
+  "version": "1.0.0",
+  "description": "Online site for GadgetHub",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi2611/GadgetHub.git"
+  },
+  "author": "Ravi Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravi2611/GadgetHub/issues"
+  },
+  "homepage": "https://github.com/Ravi2611/GadgetHub#readme"
+}

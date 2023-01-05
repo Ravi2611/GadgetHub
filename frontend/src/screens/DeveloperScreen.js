@@ -9,11 +9,11 @@ const DeveloperScreen = () => {
             Go Back
         </Link>
         <Row>
-            <Col>
+            <Col md={3}>
                 <h5>Connect</h5>
                 <a href='https://www.linkedin.com/in/ravi-raj-aa2555212/' className='btn btn-light' size='sm'>LinkedIn</a>
             </Col>
-            <Col>
+            <Col md={3}>
                 <h5>Email:</h5>
                 rraviraj08211626@gmail.com
             </Col>
